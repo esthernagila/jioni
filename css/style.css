@@ -1,0 +1,53 @@
+body{
+    background-color: wheat;
+    text-align: left;
+    /*padding: 30px;*/
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+a{
+    text-decoration: none;
+    color: darkblue;
+}
+
+p{
+    color: darkblue;
+}
+
+.one{
+    color: darkcyan;
+    border: black 1px solid;
+    /*margin-left: 50px;*/
+    padding: 5px;
+    border-radius: 15px;
+    width: 25%;
+    height: 2%;
+    color: #e3332a
+
+}
+.six{
+    background-color: cornflowerblue;
+}
+
+
+a:hover{
+    color: cyan;
+    border-bottom: whitesmoke 1px solid;
+    font-size: 30px;
+}
+
+
+#one{
+background-color: yellow;
+    color:  #e3332a
+
+;
+}
+#ten{
+    background-color: cornsilk;
+}
+
+/*SEO*/
+
+/*students@hub2024*/

@@ -1,0 +1,14 @@
+p{
+    color: deeppink;
+}
+body{
+   background-color: darkgray;
+    padding-left: 30px;
+}
+.two{
+    color: rebeccapurple;
+}
+table, td, th {
+    border: black 1px solid;
+    border-collapse: collapse;
+}
